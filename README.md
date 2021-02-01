@@ -7,10 +7,10 @@
 - 🔭 I’m currently working on ... nothing.
 - 🌱 I’m currently learning ... React.Js.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... devops.
+- 💬 Ask me about ... Web development.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/_vidhushak_), [LinkedIn](https://www.linkedin.com/in/inert-one/)
 - 😄 Pronouns: ... Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm mechanical engineer.
 
 <a href="https://github.com/inert-one/inert-one">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inert-one&hide=java,html,jupyter+notebook&&theme=material-palenight" />
@@ -18,5 +18,6 @@
 
 <a href="https://github.com/inert-one/inert-one">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=inert-one&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Inert's GitHub Stats" />
+---
 Thank you for visiting my GitHub profile 😄
 
