@@ -12,12 +12,14 @@
 - 😄 Pronouns: ... Him/His
 - ⚡ Fun fact: ... I'm mechanical engineer.
 
+---
+Thank you for visiting my GitHub profile 😄
+
 <a href="https://github.com/inert-one/inert-one">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inert-one&hide=java,html,jupyter+notebook&&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/inert-one/inert-one">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=inert-one&show_icons=true&line_height=27&count_private=true&theme=material-palenight" alt="Inert's GitHub Stats" />
----
-Thank you for visiting my GitHub profile 😄
+
 
