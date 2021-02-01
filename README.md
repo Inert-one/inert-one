@@ -12,6 +12,10 @@
 - 😄 Pronouns: ... Him/His
 - ⚡ Fun fact: ...
 
+<a href="https://github.com/anup-a/anup-a">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inert-one&hide=java,html,jupyter+notebook&&theme=material-palenight" />
+</a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=inert-one&show_icons=true&hide_border=true)
 
 Thank you for visiting my GitHub profile 😄
