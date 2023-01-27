@@ -10,7 +10,6 @@
 - 💬 Ask me about ... Web development.
 - 📫 How to reach me: ... [Twitter](https://twitter.com/_vidhushak_), [LinkedIn](https://www.linkedin.com/in/inert-one/)
 - 😄 Pronouns: ... Him/His
-- ⚡ Fun fact: ... I'm mechanical engineer.
 
 ---
 Thank you for visiting my GitHub profile 😄
